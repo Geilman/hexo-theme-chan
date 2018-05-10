@@ -8,7 +8,7 @@ favicon: /favicon.png
 monochrome: true
 
 # view setting
-avatar: https://cn.gravatar.com/avatar/35fef74d731255cd569c2c2b0b9e87e4?s=200
+avatar: http://p3pz30l6q.bkt.clouddn.com/18-2-28/11125800.jpg
 avatarLink: /about
 maxContentWidth: 1000px # set the main content column's max-width property. keep it blank to unlimited the width
 copyright: # the copyright text in the footer, could be richtext
@@ -34,11 +34,11 @@ nav:
       url: /archives
   -
     -
-      name: Chan
-      url: https://github.com/denjones/hexo-theme-chan
+      name: Coding
+      url: https://coding.net/u/Geilman
     -
       name: Github
-      url: https://github.com/denjones
+      url: https://github.com/Geilman
     -
       name: RSS
       url: /atom.xml
@@ -81,3 +81,4 @@ cc: by-sa
 # Check http://photoswipe.com
 fancybox: true    # enable fancybox/photoswipe rendering
 # photoswipe: true  # the same
+
